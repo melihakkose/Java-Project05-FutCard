@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AndoruidStudio_Java_Project05_FutCard"
